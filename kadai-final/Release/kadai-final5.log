@@ -1,0 +1,77 @@
+﻿  Kadai-final5.cpp
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(34,42): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(35,43): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(37,47): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(67,38): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(67,17): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(74,39): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(74,17): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(80,44): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(80,17): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(81,39): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(81,17): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(82,39): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(82,17): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(131,40): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(131,25): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(134,37): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(134,22): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(154,24): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(201,24): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(204,29): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(206,24): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(207,22): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(219,20): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(227,29): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(227,18): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(230,29): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(246,20): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(256,22): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(264,22): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(268,30): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(272,29): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(281,2): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(281,47): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(282,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(283,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(284,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(305,20): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(305,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(366,31): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(373,26): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(373,33): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(376,31): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(377,25): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(407,37): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(407,22): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(407,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(416,40): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(416,23): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(416,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(433,13): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(434,25): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(439,21): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(440,16): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(442,13): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(443,25): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(445,30): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(457,31): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(457,24): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(457,17): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(459,26): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(474,32): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(476,25): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(485,36): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(485,33): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(485,23): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(486,13): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(495,42): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(495,20): warning C4244: '引数': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(496,25): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\kadai-final5\Kadai-final5.cpp(678,33): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+  コード生成しています。
+  3 of 131 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  kadai-final5.vcxproj -> C:\Users\一輝\OneDrive - Kansai University\デスクトップ\CG\kadai-final5\Release\kadai-final5.exe
